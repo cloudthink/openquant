@@ -1,0 +1,7 @@
+# Distribution / packaging
+.idea/
+__pycache__/
+.history/
+.ipynb_checkpoints/
+.logs/
+logs/*
